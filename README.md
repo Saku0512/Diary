@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-03-29
+
+- I woke up at noon.
+- I was nervous today, so I didn't do anything meaningful.
+- I practiced the guitar a little bit.
+
 # 2026-03-28
 
 - I work from 11:00 to 19:00 at SC
