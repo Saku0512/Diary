@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-03-30
+
+- I updated sportease db ER diagram.
+- I fix sportease security vuln.
+- I created forms about 教AI.
+
 # 2026-03-29
 
 - I woke up at noon.
