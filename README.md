@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-03-31
+
+- I found that my github account was spammed.
+- I played a game named "Seven Deadly Sins:  Origin".
+- I got my hair cut.
+
 # 2026-03-30
 
 - I updated sportease db ER diagram.
