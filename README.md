@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-01
+
+- I watched soccer match between Japan and England. I'm happy because Japan won.
+- I went to theater with my girlfriend, and enjoyed "Poupelle of Chimney Town".
+- The movie was very enjoyable, but I feld storyline wasn't perfect. Some scenes needed more explanation.
+
 # 2026-03-31
 
 - I found that my github account was spammed.
