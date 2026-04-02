@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-02
+
+- I work from 11:00 to 19:00 at SC, and I updated  the proposal had my boss review it.
+- According to my boss, Japanese is very difficult to master.
+- I contacted Github Support again. I had used a bit of AI automation, so I made sure to apologize properly.
+
 # 2026-04-01
 
 - I watched soccer match between Japan and England. I'm happy because Japan won.
