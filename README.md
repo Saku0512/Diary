@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-03
+
+- I work from 11:00 to 19:00 at SC, and I updated the proposal had my boss review it.
+- Github PR is very easy to use.
+- I report vuln some project.
+
 # 2026-04-02
 
 - I work from 11:00 to 19:00 at SC, and I updated  the proposal had my boss review it.
