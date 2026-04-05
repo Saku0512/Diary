@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-05
+
+- I play with my girlfriend.
+- I find critical vuln. So, I report for target project.
+- I wrote code TypeHack.
+
 # 2026-04-04
 
 - I worked from 11:00 to 19:00 at SC, and I updated the proposal and had my boss review it.
