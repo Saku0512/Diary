@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-06
+
+- I wrote code for TypeHack.
+- While developing TypeHack, I ran into many errors.
+- I went to Nagamachi Station to renew my commute pass, but I needed to bring a certificate of enrollment.
+
 # 2026-04-05
 
 - I play with my girlfriend.
