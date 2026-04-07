@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-07
+
+- I ran into many errors while developing, but I managed to fix them.
+- I participated in a bug bounty program and wrote a report..
+- I met my girlfriend and gave her 551's nikuman that I had bought earlier..
+
 # 2026-04-06
 
 - I wrote code for TypeHack.
