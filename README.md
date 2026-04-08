@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-08
+
+- I went to school today.
+- I made TypeHack useful.
+- I discussed creating a poster and slogan with my DCON team members.
+
 # 2026-04-07
 
 - I ran into many errors while developing, but I managed to fix them.
