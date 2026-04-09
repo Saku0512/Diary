@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-09
+
+- I attended my first class for "総合英語" and "データ工学".
+- I set up my lab's PC.
+- I wrote a security report to earn money.
+
 # 2026-04-08
 
 - I went to school today.
