@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-10
+
+- I had my eye exam.
+- I rewrote the TypeHack room container code to make it easier to study.
+- I fixed the code in the fest-snct template PR.
+
 # 2026-04-09
 
 - I attended my first class for "総合英語" and "データ工学".
