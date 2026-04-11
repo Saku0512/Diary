@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-11
+
+- I started [DawgCTF](https://ctftime.org/event/3102) at 1:00 a.m.
+- I worked from SC remotely to learn project management.
+- I set [10 goals](https://x.com/Saku_0512_sec/status/2042611755134914586?s=20) for this year.
+
 # 2026-04-10
 
 - I had my eye exam.
