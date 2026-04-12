@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-12
+
+- I merged my school festival's HP Template project.
+- I wrote proposals for the school CTF and a student-led presentation.
+- I updated TypeHack to show recent activities like GitHub's "grass
+
 # 2026-04-11
 
 - I started [DawgCTF](https://ctftime.org/event/3102) at 1:00 a.m.
