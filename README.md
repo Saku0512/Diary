@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-13
+
+- I played golf for the first time in my life.
+- I controlled SolidWorks CAD for the first time in my life, and it was very fun.
+- I updated SportEase golang code lighter.
+
 # 2026-04-12
 
 - I merged my school festival's HP Template project.
