@@ -4,7 +4,7 @@ diary. post diary day by day
 # 2026-04-14
 
 - I checked my health.
-- I found that I had been assigned [CVE-2026-35585]（https://www.cve.org/CVERecord?id=CVE-2026-35585)
+- I found that I had been assigned [CVE-2026-35585](https://www.cve.org/CVERecord?id=CVE-2026-35585)
 - I wrote frontend test code for SportEase.
 
 # 2026-04-13
