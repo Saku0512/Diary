@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-15
+
+- I practiced using AWS and worked with EC2.
+- I wrote frontend test code for SportEase.
+- I created slide about OsiAI for club report meeting.
+
 # 2026-04-14
 
 - I checked my health.
