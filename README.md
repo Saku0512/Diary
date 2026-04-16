@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-16
+
+- I found that I had been assigned [CVE-2026-40176](https://www.cve.org/CVERecord?id=CVE-2026-40176)
+- I created cve [poc](https://github.com/Saku0512/CVE-2026-40176-poc)
+- I edited slide for programming contest.
+
 # 2026-04-15
 
 - I practiced using AWS and worked with EC2.
