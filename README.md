@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-17
+
+- I CTF at 22:00.
+- I study math in school.
+- I dicided to sports for the spring sports festival.
+
 # 2026-04-16
 
 - I found that I had been assigned [CVE-2026-40176](https://www.cve.org/CVERecord?id=CVE-2026-40176)
