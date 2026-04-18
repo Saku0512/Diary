@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-18
+
+- I worked at SC, and start requirements.
+- I ate grilled meat.
+- I created PR https://github.com/go-chi/chi/pull/1087
+
 # 2026-04-17
 
 - I CTF at 22:00.
