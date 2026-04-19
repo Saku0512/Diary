@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-19
+
+- I found some vuln.
+- I fixed SportEase code.
+- I replaced it with a tower power strip.
+
 # 2026-04-18
 
 - I worked at SC, and start requirements.
