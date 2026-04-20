@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-20
+
+- I played the golf in class.
+- I was approved SportEase to use sportsday.
+- I challenged Slack BugBounty, but it didn't successful.
+
 # 2026-04-19
 
 - I found some vuln.
