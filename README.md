@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-21
+
+- I studied how to make money.
+- I reported vuln.
+- I wrote code for osiAI and its paper.
+
 # 2026-04-20
 
 - I played the golf in class.
