@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-22
+
+- I tried AWS, create gin http server with E2C.
+- I attended to Event Committee.
+- I rewrite code SportEase.
+
 # 2026-04-21
 
 - I studied how to make money.
