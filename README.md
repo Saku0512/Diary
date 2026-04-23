@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-23
+
+- I started reading a [paper](https://cir.nii.ac.jp/crid/1050020762632985600).
+- I reported vulnerability.
+- In English class, I talked about what word I would use to describe myself.
+
 # 2026-04-22
 
 - I tried AWS, create gin http server with E2C.
