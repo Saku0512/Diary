@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-24
+
+- I walked with my girlfriend.
+- I proposed fix plan for security accident.
+- I listened to Kosen Programming Contest Symposium.
+
 # 2026-04-23
 
 - I started reading a [paper](https://cir.nii.ac.jp/crid/1050020762632985600).
