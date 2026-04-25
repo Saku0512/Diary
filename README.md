@@ -4,7 +4,7 @@ diary. post diary day by day
 # 2026-04-25
 
 - However, today is Saturday, and I went to school.
-- I created new [raylib vuln issue](https://github.com/raysan5/raylib/issues/5801）
+- I created new [raylib vuln issue](https://github.com/raysan5/raylib/issues/5801)
 - Mohu, a pupil of Tymuny Town, joined my puppet family.
 
 # 2026-04-24
