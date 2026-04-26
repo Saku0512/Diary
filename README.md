@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-26
+
+- I steped back the raylib project. Because, owner want me to publish publicly.
+- I reported some project's vulnerability.
+- I learned that everyone knows cyber security.
+
 # 2026-04-25
 
 - However, today is Saturday, and I went to school.
