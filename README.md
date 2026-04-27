@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-27
+
+- I edited code [SportEase](https://github.com/snct-SportEase/web).
+- I planed Spring Sports Festival in my school.
+- I created website that used EC2 and Cloud9 and PHP.
+
 # 2026-04-26
 
 - I steped back the raylib project. Because, owner want me to publish publicly.
