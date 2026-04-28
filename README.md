@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2028-04-28
+
+- I researched EMIC Corporation, and heard EMIC's problem.
+- I thinked how to turn down the volumes of EMIC's Heavy equipment.
+- I did LT organized by アントレ同好会.
+
 # 2026-04-27
 
 - I edited code [SportEase](https://github.com/snct-SportEase/web).
