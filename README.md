@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2028-04-29
+
+- I pitched the project of [Commit Visualizer](https://github.com/Saku0512/GitHub-Contribution-Visualizer) at the Giiku Tech Festival.
+- I played the Romancing SaGa 2.
+- I checked for OSS vulnerabilities.
+
 # 2028-04-28
 
 - I researched EMIC Corporation, and heard EMIC's problem.
