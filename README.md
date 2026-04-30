@@ -7,13 +7,13 @@ diary. post diary day by day
 - I create RDM in the web system the named draw.io.
 - I pitched the project that named osiAI for KOSEN Programming Contest.
 
-# 2028-04-29
+# 2026-04-29
 
 - I pitched the project of [Commit Visualizer](https://github.com/Saku0512/GitHub-Contribution-Visualizer) at the Giiku Tech Festival.
 - I played the Romancing SaGa 2.
 - I checked for OSS vulnerabilities.
 
-# 2028-04-28
+# 2026-04-28
 
 - I researched EMIC Corporation, and heard EMIC's problem.
 - I thinked how to turn down the volumes of EMIC's Heavy equipment.
