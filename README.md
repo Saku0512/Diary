@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-04-30
+
+- I leaned English in class.
+- I create RDM in the web system the named draw.io.
+- I pitched the project that named osiAI for KOSEN Programming Contest.
+
 # 2028-04-29
 
 - I pitched the project of [Commit Visualizer](https://github.com/Saku0512/GitHub-Contribution-Visualizer) at the Giiku Tech Festival.
