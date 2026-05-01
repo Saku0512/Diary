@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-01
+
+- I talked to her on the phone.
+- I played the Romancing SaGa 2.
+- I reported a vuln.
+
 # 2026-04-30
 
 - I leaned English in class.
