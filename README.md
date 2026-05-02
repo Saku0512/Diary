@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-02
+
+- I worked SC.
+- I found some vuln.
+- I watched WorldTrigger.
+
 # 2026-05-01
 
 - I talked to her on the phone.
