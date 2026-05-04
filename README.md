@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-04
+
+- I reported some vulnerabilities.
+- I worked SC.
+- I tried to submit OpenAI Trust Potal, but I didn't have my driver’s license yet. So, I didn't submit that.
+
 # 2026-05-02
 
 - I worked SC.
