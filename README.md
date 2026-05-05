@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-05
+
+- I played with her.
+- I reported some vuln.
+- I learned that eggs will be crashed when eggs in the microwave.
+
 # 2026-05-04
 
 - I reported some vulnerabilities.
