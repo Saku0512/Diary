@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-06
+
+- I worked with SC.
+- I finished watching the WorldTrigger.
+- I coordinated with the representative regarding the sports festival.
+
 # 2026-05-05
 
 - I played with her.
