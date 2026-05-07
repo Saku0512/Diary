@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-07
+
+- I learned VPC at class.
+- I created pitch slide that explain types of IT Engineers (Especially Security Engineers).
+- I bought gift for my friend birthday.
+
 # 2026-05-06
 
 - I worked with SC.
