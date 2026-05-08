@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-08
+
+- I created ER diagram.
+- I created google slide explained SportEase.
+- I finalized the team roster for the sports tournament within the class
+
 # 2026-05-07
 
 - I learned VPC at class.
