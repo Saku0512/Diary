@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-09
+
+- I worked SC.
+- I didn't survey oss vulnerability.
+- My girlfriend's grandfather was dead today.
+
 # 2026-05-08
 
 - I created ER diagram.
