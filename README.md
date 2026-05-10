@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-10
+
+- I learned Web and Pwn. I first learned XS-Leak.
+- I created Challenge used CCC2026.6.
+- I attached right of the controling admin for the SportEase.
+
 # 2026-05-09
 
 - I worked SC.
