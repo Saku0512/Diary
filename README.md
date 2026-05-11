@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-11
+
+- I played table tennis.
+- I create dice 3d model used Solid Works 2022.
+- I attended a safety training session.
+
 # 2026-05-10
 
 - I learned Web and Pwn. I first learned XS-Leak.
