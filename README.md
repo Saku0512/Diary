@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-12
+
+- I leaned Infinite Mapping.
+- I measured the dimensions of a vibration test machine using integrated PBL.
+- I attended the National Institute of Technology Programming Contest Symposium.
+
 # 2026-05-11
 
 - I played table tennis.
