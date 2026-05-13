@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2025-05-13
+
+- I gave a presentation on “教AI” at the progress report meeting for the National Institute of Technology Programming Contest.
+- I ate sushi.
+- I published [Commit Visualizer](https://commit-visualizer.saku0512.com/)
+
 # 2026-05-12
 
 - I leaned Infinite Mapping.
