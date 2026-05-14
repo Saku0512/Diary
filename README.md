@@ -3,6 +3,12 @@ diary. post diary day by day
 
 # 2025-05-13
 
+- I tried to create database again.
+- I created ls cli tool named by [lsc](https://github.com/Saku0512/lsc)
+- I created sports tornament.
+
+# 2025-05-13
+
 - I gave a presentation on “教AI” at the progress report meeting for the National Institute of Technology Programming Contest.
 - I ate sushi.
 - I published [Commit Visualizer](https://commit-visualizer.saku0512.com/)
