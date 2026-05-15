@@ -1,13 +1,13 @@
 # Diary
 diary. post diary day by day
 
-# 2025-05-14
+# 2025-05-15
 
 - I run the Sports Festival.
 - I fixed SportEase more.
 - I learned that if We prepared very understandable instruction manual, those who don't do it, just don't.
 
-# 2025-05-13
+# 2025-05-14
 
 - I tried to create database again.
 - I created ls cli tool named by [lsc](https://github.com/Saku0512/lsc)
