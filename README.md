@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2025-05-16
+
+- I worked SC.
+- I decided to pass the RISS.
+- I think my girlfriend made some meringue cookies.
+
 # 2025-05-15
 
 - I run the Sports Festival.
