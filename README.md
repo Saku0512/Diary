@@ -1,5 +1,11 @@
 # Diary
-diary. post diary day by day
+diary. post diary day by da
+
+# 2026-05-17
+
+- I went to "高専就活フェア".
+- I met many companies.
+- I ate very delicious ramen.
 
 # 2025-05-16
 
