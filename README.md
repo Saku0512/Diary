@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-18
+
+- I played golf.
+- I crated Zeichnen for the Idea Modeling class.
+- I speached about "What do IT Engenieur do".
+
 # 2026-05-17
 
 - I went to "高専就活フェア".
