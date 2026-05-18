@@ -1,5 +1,5 @@
 # Diary
-diary. post diary day by da
+diary. post diary day by day
 
 # 2026-05-17
 
