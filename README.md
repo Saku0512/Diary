@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-19
+
+- I moved up vibe testing machine.
+- I thinked how to down noise of vibe testing machine.
+- I wrote ES that will submitting flat security.
+
 # 2026-05-18
 
 - I played golf.
