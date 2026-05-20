@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-20
+
+- I created satellite slide for Kosen Procon.
+- I wrote ES for Flat Security and MBSD.
+- I discussed next action with DCON 2026 members.
+
 # 2026-05-19
 
 - I moved up vibe testing machine.
