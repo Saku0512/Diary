@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-21
+
+- I completed Kosen Procon satellite slide.
+- I wrote assembly language worked by ls command.
+- I created ER diagram.
+
 # 2026-05-20
 
 - I created satellite slide for Kosen Procon.
