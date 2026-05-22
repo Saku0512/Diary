@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-22
+
+- I reviewed my ES.
+- I survey some vulnerability.
+- I ate Soba with my girlfriend and friend.
+
 # 2026-05-21
 
 - I completed Kosen Procon satellite slide.
