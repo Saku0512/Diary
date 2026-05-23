@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-23 Sat
+
+- I worked SC.
+- I rewrote my ES.
+- I create ebpf web monitor https://github.com/Saku0512/eBPF_web_monitoring
+
 # 2026-05-22
 
 - I reviewed my ES.
