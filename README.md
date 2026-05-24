@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-24 Sun
+
+- I replayed security email.
+- I was with my girlfriend.
+- I advanced Procon B team of my school. 
+
 # 2026-05-23 Sat
 
 - I worked SC.
