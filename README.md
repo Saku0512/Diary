@@ -12,7 +12,7 @@ diary. post diary day by day
 
 - I replayed security email.
 - I was with my girlfriend.
-- I advanced Procon B team of my school. 
+- I adviced Procon B team of my school. 
 
 # 2026-05-23 Sat
 
