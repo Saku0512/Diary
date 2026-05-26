@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-26 Tue
+
+- I went to EMIC located in Mishima, Shizuoka.
+- I saw very complex vibration tester.
+- I ate Unaju in the noon, hamburger steak in the evening.
+
 # 2026-05-25 Mon
 
 - I spent a night with my her.
