@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-27 Wed
+
+I created 3D cad about stopper the smartphone. I had created 4 parts. Today, I assenble these parts and create one object used Solid Works 2022. I feel difficult, but it is fun more and more.
+I also created new web system proposal including purpose, system diagram and DB scheme of XSStep ( called Cross Step ) using Power Point [link](https://github.com/Saku0512/XSStep).
+Finaly, I ate lunch with worked company's CEO and CTO. I heard something about security industory, my feature and what should I do. I'm glad I am there.
+
 # 2026-05-26 Tue
 
 - I went to EMIC located in Mishima, Shizuoka.
