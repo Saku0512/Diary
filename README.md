@@ -1,6 +1,10 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-28 Thu
+
+Today is my birthday. I spoke in English. And, I wrote ER diagram in second class. It's so difficult for me. But, I thinked I want to understand ER diagram and SQL. I also attended KIC (Kosen Incubate Committee). I learned that issue tree. 
+
 # 2026-05-27 Wed
 
 I created 3D cad about stopper the smartphone. I had created 4 parts. Today, I assenble these parts and create one object used Solid Works 2022. I feel difficult, but it is fun more and more.
