@@ -1,6 +1,10 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-30 Sat
+
+Today, I worked. I've changed teams sns team to web team. I wrote the specifications for the AI chat feature. And I reported the ~ Midium vulnerability for bug crowed first. Other hand, I also decided to submit to NTT Intern. Through this intern, I want to learn Cyber Security, how to block attack, and detect tha attack. 
+
 # 2026-05-28 Thu
 
 Today is my birthday. I spoke in English. And, I wrote ER diagram in second class. It's so difficult for me. But, I thinked I want to understand ER diagram and SQL. I also attended KIC (Kosen Incubate Committee). I learned that issue tree. 
