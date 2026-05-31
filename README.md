@@ -1,6 +1,11 @@
 # Diary
 diary. post diary day by day
 
+# 2026-05-31
+
+Today, I did not do anything. Just sleep.
+And, I studied a little bit.
+
 # 2026-05-30 Sat
 
 Today, I worked. I've changed teams sns team to web team. I wrote the specifications for the AI chat feature. And I reported the ~ Midium vulnerability for bug crowed first. Other hand, I also decided to submit to NTT Intern. Through this intern, I want to learn Cyber Security, how to block attack, and detect tha attack. 
