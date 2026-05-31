@@ -1,7 +1,7 @@
 # Diary
 diary. post diary day by day
 
-# 2026-05-31
+# 2026-05-31 Sun
 
 Today, I did not do anything. Just sleep.
 And, I studied a little bit.
