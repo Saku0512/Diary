@@ -1,6 +1,10 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-01 Mon
+
+I played the tennis in the class. In the tennis, I don't played well, but I was very fun. After class, I was with my girlfriend. We did window shopping, finding books, and ate dinner. I was very funny today.
+
 # 2026-05-31 Sun
 
 Today, I did not do anything. Just sleep.
