@@ -1,6 +1,10 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-02 Thu
+
+Today, I had a time for pitch. Our team pitsched for EMIC co. We presented our interim findings regarding soundproofing measures for vibration testers.
+
 # 2026-06-01 Mon
 
 I played the tennis in the class. In the tennis, I don't played well, but I was very fun. After class, I was with my girlfriend. We did window shopping, finding books, and ate dinner. I was very funny today.
