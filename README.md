@@ -1,6 +1,10 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-03 Wed
+
+Today, published [filebrowser's vulnerability](https://github.com/filebrowser/filebrowser/security/advisories/GHSA-m93h-4hw7-5qcm). My first critical vulnerability. This vulnerability will attached CVE(maintainer requested), I really happy. Cause of this, I reached goal of [cve](https://x.com/i/status/2042611755134914586). So, I will update the goal. New this year's cve goal is to get eight CVE.
+
 # 2026-06-02 Thu
 
 Today, I had a time for pitch. Our team pitsched for EMIC co. We presented our interim findings regarding soundproofing measures for vibration testers.
