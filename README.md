@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-04
+
+I learned how to get data to use PostgreSQL. I actually hands on select, distinct, as, where and comparison operators.
+In lunch, I went to cafe with my her. it was delicious, but salad wasn't.
+After school, I researched. I started to create original kernel. It was very difficult, but fun.
+
 # 2026-06-03 Wed
 
 Today, published [filebrowser's vulnerability](https://github.com/filebrowser/filebrowser/security/advisories/GHSA-m93h-4hw7-5qcm). My first critical vulnerability. This vulnerability will attached CVE(maintainer requested), I really happy. Cause of this, I reached goal of [cve](https://x.com/i/status/2042611755134914586). So, I will update the goal. New this year's cve goal is to get eight CVE.
