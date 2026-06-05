@@ -1,6 +1,10 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-05
+
+I created CCC challenges, Pwn, Rev. And, start challenge server.
+
 # 2026-06-04
 
 I learned how to get data to use PostgreSQL. I actually hands on select, distinct, as, where and comparison operators.
