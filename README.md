@@ -1,6 +1,10 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-06 Sat
+
+I went OSC(Open Source Canfarence). It's very interesting.
+
 # 2026-06-05 Fri
 
 I created CCC challenges, Pwn, Rev. And, start challenge server.
