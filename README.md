@@ -1,7 +1,7 @@
 # Diary
 diary. post diary day by day
 
-# 2026-06-07
+# 2026-06-07 Sun
 
 Today, I studied for the examination. 
 
