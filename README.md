@@ -1,6 +1,10 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-07
+
+Today, I studied for the examination. 
+
 # 2026-06-06 Sat
 
 I went OSC(Open Source Canfarence). It's very interesting.
