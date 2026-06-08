@@ -1,6 +1,10 @@
 # Diary
 diary. post diary day by day
 
+＃2026-06-08 Mon
+
+I played sports like tennis, playing in gym.  I completed 3D CAD model, and create pitch PowerPoint.
+
 # 2026-06-07 Sun
 
 Today, I studied for the examination. 
