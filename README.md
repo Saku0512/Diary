@@ -1,6 +1,10 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-09 Tue
+
+I was setting up a CTFD environment. I completed to up dynamicly Web challenge to use Docker-Challenge-Plugin. I customed this plugin more useful for me. Finally, CCC2026.6 was ready to start.
+
 # 2026-06-08 Mon
 
 I played sports like tennis, playing in gym.  I completed 3D CAD model, and create pitch PowerPoint.
