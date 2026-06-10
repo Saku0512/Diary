@@ -1,6 +1,11 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-10 Wed
+
+I had a advanced math examination. It was very easy. Mybe, I got full score. 
+I continued to build web service using AWS. I create VPC network, and created DB scheme in DB server. Finally, I wrote GitHub Action's CD strps. So, I believe that I can wrote web code next week.
+
 # 2026-06-09 Tue
 
 I was setting up a CTFD environment. I completed to up dynamicly Web challenge to use Docker-Challenge-Plugin. I customed this plugin more useful for me. Finally, CCC2026.6 was ready to start.
