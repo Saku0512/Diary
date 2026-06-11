@@ -1,6 +1,11 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-11 Thu
+
+I learned POSTGRESQL. how to select data like LIKE, ORDER BY, DESC, HAVING. I thinked It's very important for me.
+Afternoon, I attended the web class called KIC. teacher teached me how to make idea, how to rate idea.
+
 # 2026-06-10 Wed
 
 I had a advanced math examination. It was very easy. Mybe, I got full score. 
