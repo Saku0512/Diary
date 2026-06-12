@@ -1,6 +1,10 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-12 Fri
+
+I did electric magnetic examination. It's so difficult. So, I feel free to study more harder. I hugged my girlfriend.
+
 # 2026-06-11 Thu
 
 I learned POSTGRESQL. how to select data like LIKE, ORDER BY, DESC, HAVING. I thinked It's very important for me.
