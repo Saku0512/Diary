@@ -1,6 +1,11 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-13 Sat
+
+I worked at SC. I verified that which AI exe environment are better for project, `ollama` vs `llama.cpp`.  Actually, ollama was better. llama.cpp is faster then ollama, but exe step is more complex than ollama. I don't like llama.cpp, so I decided to choice the ollama.
+I played ctf4b too. I attemded my SNCT team that joined 3 peoples, I did 10th rank. I was very happy.
+
 # 2026-06-12 Fri
 
 I did electric magnetic examination. It's so difficult. So, I feel free to study more harder. I hugged my girlfriend.
