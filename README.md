@@ -1,6 +1,11 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-14 Sun
+
+Today, I was with my her. We ate delicious food. She said "I want to go to Yagamata station next!". So, we are going to go there. And CCC2026.6 hold myself. It's so fun but attended only person from my school. I decided to held it on weekdays.
+Before go to bed, I applied for new passport.
+
 # 2026-06-13 Sat
 
 I worked at SC. I verified that which AI exe environment are better for project, `ollama` vs `llama.cpp`.  Actually, ollama was better. llama.cpp is faster then ollama, but exe step is more complex than ollama. I don't like llama.cpp, so I decided to choice the ollama.
