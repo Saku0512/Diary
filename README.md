@@ -1,6 +1,10 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-15 Mon
+
+I dropped flatt intern. I'm very sad, but I will try harder until more bigger.
+
 # 2026-06-14 Sun
 
 Today, I was with my her. We ate delicious food. She said "I want to go to Yagamata station next!". So, we are going to go there. And CCC2026.6 hold myself. It's so fun but attended only person from my school. I decided to held it on weekdays.
