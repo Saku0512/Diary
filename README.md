@@ -1,6 +1,11 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-16 Tue
+
+I disccused Hackson of Electric Sheep with my team 6 members. We decided to what will we create, what will stack we use. It's very fun. And, I got [CVE-2026-54686](https://saku0512.com/cve/cve-2026-54686). 
+ 
+
 # 2026-06-15 Mon
 
 I dropped flatt intern. I'm very sad, but I will try harder until more bigger.
