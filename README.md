@@ -1,6 +1,11 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-17 Wed
+
+I installed envrironment of glang and nodejs in school's desktop PC. I cURL the executive file, and attached PATH(if needed build, I did).
+I completed the creating develop envrironment.
+
 # 2026-06-16 Tue
 
 I disccused Hackson of Electric Sheep with my team 6 members. We decided to what will we create, what will stack we use. It's very fun. And, I got [CVE-2026-54686](https://saku0512.com/cve/cve-2026-54686). 
