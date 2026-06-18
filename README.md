@@ -1,6 +1,11 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-18 Thu
+
+I learned PostgreSQL's syntax that can show cartesian product of two table, CROSS JOIN. Other, INNER JOIN, LEFT(RIGHT) OUTER JOIN.
+I studied for examination. I calculated harder.
+
 # 2026-06-17 Wed
 
 I installed envrironment of glang and nodejs in school's desktop PC. I cURL the executive file, and attached PATH(if needed build, I did).
