@@ -1,6 +1,10 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-19 Fri
+
+I did examination. It's mybe easy, but I don't know basic problem. I hope I will get high score. I created release [specter](https://github.com/Saku0512/specter). specter is light strong api mock server. I also published [specter's HP](https://saku0512.github.io/specter), very rich website. I love my specter icon. 
+
 # 2026-06-18 Thu
 
 I learned PostgreSQL's syntax that can show cartesian product of two table, CROSS JOIN. Other, INNER JOIN, LEFT(RIGHT) OUTER JOIN.
