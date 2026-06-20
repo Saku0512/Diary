@@ -1,6 +1,11 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-20 Sat
+
+I worked. I tailked my BOSS about flatt security intern. I recognized reason why I was rejected internship. It's very valid reason. I will revenge, having more knowledges, more passion, hit the wider range. 
+I tried vulnerability resaerch with my friend. I teached friend how to servey, what I'm thinking, why I did. My frined said "It's mybe fun!". I was very happy to hear that.
+
 # 2026-06-19 Fri
 
 I did examination. It's mybe easy, but I don't know basic problem. I hope I will get high score. I created release [specter](https://github.com/Saku0512/specter). specter is light strong api mock server. I also published [specter's HP](https://saku0512.github.io/specter), very rich website. I love my specter icon. 
