@@ -1,6 +1,10 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-21  Sun
+
+I shared my information and talked bugbounty with my friend. We shared podcasts and youtube posting internet technology and security.
+
 # 2026-06-20 Sat
 
 I worked. I tailked my BOSS about flatt security intern. I recognized reason why I was rejected internship. It's very valid reason. I will revenge, having more knowledges, more passion, hit the wider range. 
