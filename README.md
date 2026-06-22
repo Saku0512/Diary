@@ -1,6 +1,14 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-22 Mon
+
+First thing today, I played futsal. It was really tough, but I think I had even more fun than I expected.
+In my “Idea Modeling” class, we were brainstorming ideas for “foldable objects,” but I couldn’t come up with anything during the class. I thought it would be interesting to fold a reception bell, but I couldn’t figure out what shape it would take after being folded.
+After school, I saw a report had been submitted to the bug bounty program I run, so I left a comment.
+I looked at the report submitted by one of my juniors, accepted it, fixed the code, and even published it.
+I also submitted a CVE.
+
 # 2026-06-21  Sun
 
 I shared my information and talked bugbounty with my friend. We shared podcasts and youtube posting internet technology and security.
