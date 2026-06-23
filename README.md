@@ -1,6 +1,19 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-23 Tue
+
+Today, I customized the boot order on Ubuntu.
+I wanted to make my boot screen look better and easier to use, so I changed the settings and theme.
+
+After that, I published an install.sh script on GitHub so that I can use the same setup on both my laptop and mini PC.
+It feels good to make something reusable instead of setting everything up manually every time.
+
+I also applied for the GMO Ierae summer internship today.
+I hope I can get a chance to join it and learn more about cybersecurity in a real-world environment.
+
+Overall, today was a productive day. I made progress with my Linux environment and also took one step forward for my career.
+
 # 2026-06-22 Mon
 
 First thing today, I played futsal. It was really tough, but I think I had even more fun than I expected.
