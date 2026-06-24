@@ -1,6 +1,14 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-24 Wed
+
+Today, in my Project Practice class, I continued developing **XSStep**, an XSS training web application built with Svelte, Golang, and AWS EC2. I worked on the user interface in Svelte and created the backend for user authentication. The class ended just as I finished implementing the backend. I encountered many errors while connecting the frontend and backend, and fixing them was quite challenging.
+
+In Applied Mathematics, I learned how to differentiate complex functions. I found it useful that the relevant equations make it easy to determine whether a complex function is differentiable.
+
+After school, I brainstormed ideas for **KOSEN GCON**. It was difficult to find a good way to connect the SDGs with issues related to women, so we struggled to develop a strong idea.
+
 # 2026-06-23 Tue
 
 Today, I customized the boot order on Ubuntu.
