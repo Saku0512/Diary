@@ -1,6 +1,15 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-25 Thu
+
+Today, In my "General English" class, we read the story of a woman who, despite being homeless, worked hard at her studies and got into Harvard University titled "from Stairway to Spotlight". 
+After read, I realized that she had encouraged me.
+
+In Data Engneering, I learned postgres grammer like SELECT hoge FROM fuga WHERE hogehoge >= (SELECT COUNT(some) FROM fuga);. To use (), we can cntrol more complex query. And we gave VIEW. VIEW is fantastic. it's cntrol permission of information.
+
+Third, I wrote handover procedures manual of SportEase. I decided to transfer the management of SportEase from the Event Committee to the Programming Depertment.  
+
 # 2026-06-24 Wed
 
 Today, in my Project Practice class, I continued developing **XSStep**, an XSS training web application built with Svelte, Golang, and AWS EC2. I worked on the user interface in Svelte and created the backend for user authentication. The class ended just as I finished implementing the backend. I encountered many errors while connecting the frontend and backend, and fixing them was quite challenging.
