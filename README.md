@@ -1,6 +1,15 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-26 Fri
+
+Today, I had a class called **Introduction to Software Engineering**, where we learned about flowcharts.
+
+After that, I got my math tests back. Two subjects were returned, but I cannot say that I got good scores on either of them. I have no choice but to study harder from now on.
+
+After school, the members of the Entrepreneurship Club discussed rules for opening our activities to the public. Later, I went to Yamada Denki with my girlfriend. We bought a laptop case for her, had dinner together, and then went home.
+
+
 # 2026-06-25 Thu
 
 Today, In my "General English" class, we read the story of a woman who, despite being homeless, worked hard at her studies and got into Harvard University titled "from Stairway to Spotlight". 
