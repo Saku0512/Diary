@@ -1,6 +1,18 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-27 Sat
+
+Today was a productive day.
+
+I gave a work report, reviewed some pull requests, and merged a PR. I also reflected the milestones in the shared calendar so that everyone can check the schedule more easily.
+
+I created PRs to fix tests for both the frontend and backend. In addition, I read up to Part IV of *Web wo Sasaeru Gijutsu*. I only read it for now, so I still need to digest the contents more deeply.
+
+Later, I taught my hackathon teammates how to use Git. Explaining it to others made me realize again how important the basics are, such as branches, commits, and pull requests.
+
+Overall, I made progress on several tasks and also had a good opportunity to support my teammates.
+
 # 2026-06-26 Fri
 
 Today, I had a class called **Introduction to Software Engineering**, where we learned about flowcharts.
