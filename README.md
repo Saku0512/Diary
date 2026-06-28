@@ -1,6 +1,18 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-28 Sun
+
+Today, I translated the README of my CVE PoC repository into Japanese.
+
+I also made a special page on my website for recruiters. I added pages for HTTP status codes, such as 404. I even made a special 418 “I’m a teapot” page.
+
+I also worked on materials for the KIC meeting. I listed and organized security problems for general companies.
+
+After that, I made slides for the LT event at Tohoku Institute of Technology on July 5. The title is “An Introduction to Reporting OSS Vulnerabilities.” I made the slides for people who do not know much about security. I heard that IPUSIRON will come to the event, so I am looking forward to it.
+
+Finally, I checked my slides for my laboratory presentation. I practiced my presentation several times. I also read the original paper again to improve my understanding.
+
 # 2026-06-27 Sat
 
 Today was a productive day.
