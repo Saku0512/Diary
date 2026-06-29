@@ -1,6 +1,12 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-29 Mon
+
+Today, I did fotsal. It's very fun. But today was very hot, So, I drank water.
+Secound, I craeted bell 3D model.
+Finally, I attended Events Committee.
+
 # 2026-06-28 Sun
 
 Today, I translated the README of my CVE PoC repository into Japanese.
