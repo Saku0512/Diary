@@ -1,6 +1,14 @@
 # Diary
 diary. post diary day by day
 
+# 2026-06-30 Tue
+
+Today, I thought about ideas for GCON. After considering several directions, I still feel that disaster support may be the strongest theme. I think it has clear social value and could lead to a practical solution.
+
+Also, the microcontroller and the microcontroller programmer for our integrated PBL class finally arrived. Now that we have the necessary equipment, it feels like we can finally move forward with the project.
+
+In addition, I talked with the president of the Programming Club about taking over SportEase. We were able to have a fairly meaningful discussion, and I think it was a good step toward a smoother handover.
+
 # 2026-06-29 Mon
 
 Today, I did fotsal. It's very fun. But today was very hot, So, I drank water.
