@@ -1,6 +1,20 @@
 # Diary
 diary. post diary day by day
 
+# 2026-07-01 Wed
+
+Today, I had a class called Project Practice.
+
+In the class, I saw products made by other students. I was inspired by their ideas. Some students used Flask, and I thought it was interesting.
+
+However, I was a little worried because many students used Gemini to generate code. Because of that, many layouts looked similar.
+
+In Applied Mathematics, I studied Taylor series and Laurent series. They were difficult, but I want to understand them little by little.
+
+After school, I also worked on ideas for GCON. In the end, we decided that our idea should be hardware × AI to support women in evacuation shelters during disasters.
+
+I think this idea is meaningful because it focuses on problems from women’s perspectives.
+
 # 2026-06-30 Tue
 
 Today, I thought about ideas for GCON. After considering several directions, I still feel that disaster support may be the strongest theme. I think it has clear social value and could lead to a practical solution.
